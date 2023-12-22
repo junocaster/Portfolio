@@ -1,0 +1,5 @@
+Deposit Transaction Successful
+
+Amount: 324,234.00 (PHP)
+Time and Date: 2023-12-21 04:38:45
+Reference Number: 883109621787

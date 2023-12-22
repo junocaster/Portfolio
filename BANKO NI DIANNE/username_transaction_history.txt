@@ -1,0 +1,12 @@
+Username: example_username
+
+Withdraw: Php51,439.00,2023-12-21 13:07:06,216158140353
+Deposit: Php51,439.00,2023-12-21 13:07:15,904243353645
+Transfer to Another Bank: <encrypted account details> ;Php51,439.00,2023-12-21 13:08:37,886639141067
+Deposit: Php10,000.00,2023-12-21 13:10:17,108379904249
+Transfer to Another Bank: <encrypted account details> ;Php100.00,2023-12-21 13:10:31,301852757461
+Transfer to Another Bank: <encrypted account details> ;Php121.00,2023-12-21 13:13:06,910542140523
+Transfer to Another Bank: <encrypted account details> ;Php21.00,2023-12-21 13:13:32,190343663157
+Transfer to Another Bank: <encrypted account details> ;Php213.00,2023-12-21 13:14:11,788803154026
+Transfer to Another Bank: <encrypted account details> ;Php212.00,2023-12-21 13:15:40,736878587179
+Transfer to BND Bank: <encrypted account details> ;Php56.00,2023-12-21 13:16:39,874047033961
