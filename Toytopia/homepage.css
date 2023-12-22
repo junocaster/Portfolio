@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Bold Font';
+  src: url('assets/THEBOLDFONT.ttf');
+}
+
+.navbar {
+  background-color: #1C72C2;
+  overflow: hidden;
+  margin-bottom: 20px; 
+  font-family: 'Bold Font';
+  font-size: 18px;
+}
